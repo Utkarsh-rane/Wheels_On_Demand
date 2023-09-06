@@ -1,0 +1,48 @@
+.details{
+    margin-right: 10%;
+}
+.customer{
+    margin-right: 10%;
+}
+.user-table{
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.table-user{
+    border-radius: 15px;
+    background-color:white;
+}
+
+.user-table {
+    padding: 20px;
+}
+
+.kyc-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+.kyc-table th,
+.kyc-table td {
+    border: 1px solid #ddd;
+    padding: 10px;
+    text-align: center;
+}
+
+.kyc-table th {
+    background-color:#71797E; /* Mid-gray background for table header */
+    font-weight: bold;
+    border-top-left-radius: 10px; /* Rounded top-left corner */
+    border-top-right-radius: 10px; /* Rounded top-right corner */
+}
+
+.kyc-table tbody {
+    background-color: #ffffff; /* White background for table body */
+}
+
+.table-container {
+    max-width: 800px;
+    margin: 0 auto;
+}
